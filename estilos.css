@@ -1,0 +1,42 @@
+#idsamanta {
+    color: coral;
+}
+
+.idzagitl{
+    color: cadetblue;
+}
+
+body{
+    background-color: white;
+}
+
+ul strong li{
+    color: violet;
+}
+
+ol li{
+    color: yellowgreen;
+}
+
+li  p  strong {
+    color: steelblue;
+}
+
+h2{
+    color: yellowgreen;
+}
+
+ li p {
+    color: rosybrown;
+ }
+
+ /* 
+    dashed  - - - - 
+    dotted  * * * *
+    solid ----------
+ */
+
+ table, th, td {
+    border: 5px dotted red;
+    border-collapse: collapse;
+}
